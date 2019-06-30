@@ -1,0 +1,12 @@
+{
+	"whatch": [
+		"index.js",
+		"rotues",
+		"config",
+		"passport",
+		"models",
+		"nodemon.json"
+	],
+	"exec": "node index.js",
+	"ext": "js json"
+}
